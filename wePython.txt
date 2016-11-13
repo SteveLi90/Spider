@@ -1,0 +1,1056 @@
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=202513156&idx=1&sn=948c08e8ebe2e217e02ea00e8cb527c3&scene=4#wechat_redirect
+快速入门：十分钟学会Python
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=202550638&idx=1&sn=13c3b02861260fcf664142d0623d44d2&scene=4#wechat_redirect
+Python编程语言的发展简史
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=202587810&idx=1&sn=005732105f170c7179348a3855c93a97&scene=4#wechat_redirect
+Python 代码性能优化技巧
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=202636581&idx=1&sn=2102e95e6c3731302f5fb1a79b0206ef&scene=4#wechat_redirect
+Online Python Tutor：Python 初学者的好帮手
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=202836526&idx=1&sn=b3c1d9db711972a086c4cf4b7967ac66&scene=4#wechat_redirect
+10 个 Python IDE 和代码编辑器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=202865022&idx=1&sn=afce68cb5e3a6cb62194ac28261c8a8d&scene=4#wechat_redirect
+用 Python 编写一个国际象棋 AI 程序
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=202922965&idx=1&sn=1e5e316f83bdb0bf7fb49145500e66cc&scene=4#wechat_redirect
+给Python初学者的一些技巧
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=202947814&idx=1&sn=73ebb49fdf8b0cbd979825a2bd3fdbae&scene=4#wechat_redirect
+我常用的 Python 调试工具
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=202977686&idx=1&sn=b690f9dbf7c3a5573a6897621826dd73&scene=4#wechat_redirect
+Python中何时使用断言
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=202998291&idx=1&sn=6371677d49c12db23d0e531388aadeff&scene=4#wechat_redirect
+理解 Python 字节码
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203028371&idx=1&sn=f5c297d2f8a5c53b2a88f0943c43038d&scene=4#wechat_redirect
+Python的中文编码问题
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203091035&idx=1&sn=6cbb9898b617ac48fc93f005cdcb79b2&scene=4#wechat_redirect
+Django运行方式及处理流程总结
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203115718&idx=1&sn=029b033b024f5f27135fa91ae7805f3d&scene=4#wechat_redirect
+15个最受欢迎的Python开源框架
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203148805&idx=1&sn=80e732f46c328279446fb5223a8b9b94&scene=4#wechat_redirect
+Python高级特性（1）：Iterators、Generators和itertools
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203181338&idx=1&sn=919308047e8a7f21e62c79c813f748d1&scene=4#wechat_redirect
+我希望早点就知道的10个Python用法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203283711&idx=1&sn=ce4f2c22c10b8630e76eb47cb4696b31&scene=4#wechat_redirect
+用Python挖掘Linux系统
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203311989&idx=1&sn=df50a006a956d7190513690a7e028d80&scene=4#wechat_redirect
+Zed Shaw：一位老程序员的建议
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203397522&idx=1&sn=85b5f2907177e1c1d49e8a05cd5de3f4&scene=4#wechat_redirect
+趣文：Python程序员的进化史
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203445433&idx=1&sn=226cd6f09b08796bcaa956814a0dc5bd&scene=4#wechat_redirect
+Python编程中常用的12种基础知识总结
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203479573&idx=1&sn=ca7a000ab25389a3b7c855f78c682702&scene=4#wechat_redirect
+程序出错后，程序员给测试人员的20条高频回复
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203521756&idx=2&sn=039daf6e91b5a32459438ac93ebb8b31&scene=4#wechat_redirect
+Python中setup.py一些不为人知的技巧
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203640228&idx=1&sn=5770bda4f7ba7ce535eb69ba5dcbb866&scene=4#wechat_redirect
+在Python中正确使用Unicode
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203655041&idx=1&sn=d0d397442b30368b1c62fae438b8bf4c&scene=4#wechat_redirect
+人们对Python在企业级开发中的10大误解
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203679078&idx=1&sn=68b3db42787b2a3f1b94b9293675a871&scene=4#wechat_redirect
+Python 新手常犯错误（第一部分）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203701649&idx=2&sn=3b3945e33b9bd2694feb0f2046e52261&scene=4#wechat_redirect
+Python 新手常犯错误（第二部分）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203736348&idx=2&sn=fe85786891cbb15c7ca49d2d3d687683&scene=4#wechat_redirect
+在Python中正确使用Unicode
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203800615&idx=2&sn=31041cab25c0c31e2c9797a527b0891e&scene=4#wechat_redirect
+用Python在地图上模拟疫情扩散
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203800615&idx=2&sn=31041cab25c0c31e2c9797a527b0891e&scene=4#wechat_redirect
+用Python在地图上模拟疫情扩散
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203820892&idx=2&sn=9a430274b2eaeeb0ec593110d425d1d5&scene=4#wechat_redirect
+数据科学的完整学习路径（Python版）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203841584&idx=2&sn=190821fee314efec5ee7af61e68f1f6e&scene=4#wechat_redirect
+Python进阶之"属性(property)"详解
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203861535&idx=2&sn=7a2cf9d54b7f5e9017752d4a85edf6eb&scene=4#wechat_redirect
+Python并发之threading模块
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203893298&idx=2&sn=119c652d570d770b0af7eab182b9be36&scene=4#wechat_redirect
+这不是魔法:Flask和@app.route(1)
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=203986429&idx=2&sn=b4d0a4932a356845288af841d21f44f9&scene=4#wechat_redirect
+高性能的Python扩展（1）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204092417&idx=2&sn=aa9691701b046f10683fa474d85a8cb1&scene=4#wechat_redirect
+这不是魔法：Flask和@app.route（2）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204198714&idx=2&sn=e978bb754021191e292f9aaa0daee870&scene=4#wechat_redirect
+我希望初学Python时就能知道的一些用法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204299425&idx=2&sn=9ef78c8c7f3a419d1c133f6c01aed6a0&scene=4#wechat_redirect
+用Flask实现视频数据流传输
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204388241&idx=1&sn=a5041b1c16cfaeb54ab8b17b0e5dd3e8&scene=4#wechat_redirect
+趣文：有趣的 Linux 命令
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204408703&idx=2&sn=8be461684ac2c6a38669b5ac82895015&scene=4#wechat_redirect
+为什么数据科学家们选择了Python语言？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204453188&idx=2&sn=cb3ac9085c64ea12fa66f5adb66d4d36&scene=4#wechat_redirect
+Linux Netcat命令：网络工具中的瑞士军刀
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204474890&idx=2&sn=5dc4348b0feb40bebc2e4d4a17dc2711&scene=4#wechat_redirect
+提升 Python 程序性能的 6 个技巧
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204498512&idx=1&sn=486375927e6060402cd5a8131850e6b7&scene=4#wechat_redirect
+微信红包的算法实现探讨
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204515873&idx=2&sn=c7e6569539a67a87cd50fe03d233406f&scene=4#wechat_redirect
+Python 的那些隐藏特性
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204557918&idx=2&sn=149ecce656b1cca23fbacb78475039e7&scene=4#wechat_redirect
+使用IronPython集成Python和.NET
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204613943&idx=1&sn=895cfa0f4c27bc5d8237d30ca00dc145&scene=4#wechat_redirect
+我希望早几年知道的5个Unix命令
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204644967&idx=1&sn=ec9d44fab2631af8156c7aa41beada34&scene=4#wechat_redirect
+机器学习自学指南
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204657455&idx=1&sn=e26dc9eca54a4124872c3d1540f43b6a&scene=4#wechat_redirect
+11个并不广为人知，但值得了解的Python库
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204676477&idx=1&sn=fb960ff94cebbc2f32bfd6b6a04e1fd3&scene=4#wechat_redirect
+UNIX 高手的 10 个习惯
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204693825&idx=1&sn=5faf38cbc7a50de3b7f634aec1a4a173&scene=4#wechat_redirect
+Python正则表达式指南
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204732723&idx=1&sn=d312f3dd279ca84d38abd9ab40152952&scene=4#wechat_redirect
+检测Python程序执行效率及内存和CPU使用的7种方法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204757035&idx=2&sn=28fdaa7eed14dd20400726a42b6e7b75&scene=4#wechat_redirect
+零基础自学用Python 3开发网络爬虫(一)
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204789343&idx=2&sn=aabd8670031994a38d1668a3a70fba20&scene=4#wechat_redirect
+零基础自学用Python 3开发网络爬虫(二): 用到的数据结构简介以及爬虫Ver1.0 alpha
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204817548&idx=2&sn=1ff04855052457e35416b910f064dc64&scene=4#wechat_redirect
+零基础自学用Python 3开发网络爬虫(三): 伪装浏览器君
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204839109&idx=2&sn=a071f8c60b7f8a42e1a1176ee4956451&scene=4#wechat_redirect
+零基础自学用Python 3开发网络爬虫(四): 登录
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204864703&idx=1&sn=e7387c3b2a9f698f0081588028d8a41c&scene=4#wechat_redirect
+代码中这样放括号，你能忍么？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204904502&idx=2&sn=04de7b90cf098fc0b8c60896131a11d5&scene=4#wechat_redirect
+零基础自学用Python 3开发网络爬虫(五): 使用第三方模块快速抓取与解析
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204904502&idx=1&sn=bb9d348f41c8dcd89c71bcc8108e0cf1&scene=4#wechat_redirect
+什么是堆和栈，它们在哪儿？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204939518&idx=2&sn=9f0b1ae978567a813f978b6c266700be&scene=4#wechat_redirect
+Python中备忘功能和装饰器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=204986784&idx=2&sn=e1d055fe8f7deaafc09d606ba5296c03&scene=4#wechat_redirect
+提升 Python 程序性能的 6 个技巧
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205004043&idx=2&sn=cc279a06700a9bc1a925572ad4c112c5&scene=4#wechat_redirect
+Python中的默认参数
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205037126&idx=2&sn=738a08d57a92c4688aab5f270bed7e9d&scene=4#wechat_redirect
+在Raspberry Pi 2/B+上安装Python和OpenCV
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205055799&idx=2&sn=b4826c66530cf1dabc13dfe104642cfa&scene=4#wechat_redirect
+一行 Python代码搞定一棵树
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205085024&idx=2&sn=19dd8ce07a2256214ec253123b546025&scene=4#wechat_redirect
+数据科学的完整学习路径（Python版）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205138058&idx=2&sn=40eca754e2add25345082def1f1e6361&scene=4#wechat_redirect
+详解Python中的下划线
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205165312&idx=2&sn=6e1f4c75f0109ff26243d600889d1195&scene=4#wechat_redirect
+机器学习的最佳入门学习资源
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205214374&idx=1&sn=1b8cc5fc98567584730273d57c6d98e9&scene=4#wechat_redirect
+Python数据分析入门
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205297335&idx=1&sn=1643899f449e2e444c791e8020a01602&scene=4#wechat_redirect
+Python 函数参数默认值的陷阱和原理深究
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205385517&idx=1&sn=09844aa69148d179a27fb90fd8be83fa&scene=4#wechat_redirect
+用 Python 绘制音乐图谱
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205463707&idx=2&sn=0f472f984a8ed19a5cdd00f16fba15da&scene=4#wechat_redirect
+Python中导入模块或包语句
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205501397&idx=2&sn=eb503d759b8016ff7882aa81d1cc6729&scene=4#wechat_redirect
+Scrapy 轻松定制网络爬虫
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205534952&idx=2&sn=1684bd777cbfb4c95cccd1873dadef4f&scene=4#wechat_redirect
+写给已有编程经验的 Python 初学者的总结
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205565897&idx=1&sn=7c3526cf633821825b05bdd875f7f773&scene=4#wechat_redirect
+Python基础技术问题总结
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205591276&idx=1&sn=a62e158ac53313d33840fdb36d1b152a&scene=4#wechat_redirect
+在Python中处理分数
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205617656&idx=1&sn=c90a96469c5897220b889080a8bd11ce&scene=4#wechat_redirect
+Python中的str与unicode处理方法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205640756&idx=2&sn=93a32017adc57bc7cde831b85d8845d1&scene=4#wechat_redirect
+Python代码微优化之加快查找
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205699315&idx=2&sn=6db416092f12f1fe54355d8bcc8990c6&scene=4#wechat_redirect
+让Python代码更快运行的 5 种方法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205798472&idx=1&sn=d609173bcf0930fdbb5fcd9f7adbfdcd&scene=4#wechat_redirect
+用 Python 进行并发编程
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205820713&idx=1&sn=e80106e989cc631275d6d78098b41c4d&scene=4#wechat_redirect
+Python程序员必知必会的开发者工具
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205877793&idx=2&sn=9728d4c7a491176e1c0f785cb53d2ac0&scene=4#wechat_redirect
+YAPF：Google开源的Python代码格式化工具
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205909635&idx=2&sn=a7b9ad2bd7729a1f1f22a18b6bd03f03&scene=4#wechat_redirect
+教你用Python创建瀑布图
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205940558&idx=1&sn=bbbb0c8bb8a01ba4619f1b2584a725e6&scene=4#wechat_redirect
+如何系统地学习数据挖掘？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=205975448&idx=1&sn=82c9bc64208d42a8b0e38d5b95ef50e1&scene=4#wechat_redirect
+Python高级特性（1）：Iterators、Generators和itertools
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206006839&idx=1&sn=568201291c68761da6cf873c1a7c5ef4&scene=4#wechat_redirect
+如何入门 Python 爬虫？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206031374&idx=1&sn=ed381d76e4081e88f251e34c3e804ce8&scene=4#wechat_redirect
+Python 兵器谱
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206060370&idx=1&sn=cd675d03824b893c42014c6987ca1b79&scene=4#wechat_redirect
+机器学习算法之旅
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206096254&idx=1&sn=3d33021aa5ed03c97c61ebd1247b3390&scene=4#wechat_redirect
+基于Python的行为驱动开发实战
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206127455&idx=2&sn=b57f87b22211978991e646b12c2077f3&scene=4#wechat_redirect
+基于Python的测试驱动开发实战
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206251249&idx=1&sn=cb8b9295c20946e10910e1832c24c1a0&scene=4#wechat_redirect
+Python循环语句中的索引变量作用域
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206284791&idx=1&sn=c953ecf98270073261e2c07b25459c51&scene=4#wechat_redirect
+机器学习算法原理之人工神经元和单层神经网络
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206314278&idx=2&sn=e149740522371e1fae021a3c5be48b62&scene=4#wechat_redirect
+利用图片指纹检测高相似度图片
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206378264&idx=1&sn=03f5bbea2e28eb8b0c71cceb02cb1b62&scene=4#wechat_redirect
+如何获得NumPy的最佳性能
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206441556&idx=1&sn=b1b38b0b2f7feb51ecf0314b3373bb55&scene=4#wechat_redirect
+Python下用Scrapy和MongoDB构建爬虫系统（1）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206470385&idx=1&sn=cc166c6f0a688520baf6d9836a1f2688&scene=4#wechat_redirect
+【下篇】Python下用Scrapy和MongoDB构建爬虫系统
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206498229&idx=1&sn=b31df4820e504f3cb43c51482afe1b8e&scene=4#wechat_redirect
+机器学习项目中常见的误区
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206528234&idx=2&sn=df88c465e12d7a22f27ca04ce3a4535d&scene=4#wechat_redirect
+成为一名数据分析师的新手指导
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206574454&idx=1&sn=8757489c9f7866f5c88afa074a17f35a&scene=4#wechat_redirect
+如何更好地学习机器学习？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206601291&idx=2&sn=d262075c61bf82ea4cf58c6ee907bcc3&scene=4#wechat_redirect
+机器学习常见算法分类汇总
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206647137&idx=1&sn=817d7bd94502ca737e688f20dca20e13&scene=4#wechat_redirect
+文本向量空间模型
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206686577&idx=1&sn=1aee8af3dac1d47f157fad2da55967a3&scene=4#wechat_redirect
+如何在Python中实现这五类强大的概率分布
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206749357&idx=1&sn=4c076c734cfdc2ef3e478318befd0e2a&scene=4#wechat_redirect
+用主题模型可视化分析911新闻
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206781371&idx=1&sn=078ae2c11f6279f55269a13a581c69a8&scene=4#wechat_redirect
+Python爬虫入门
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206914953&idx=2&sn=73829715df1f8e715b1039d8ec4ac7dd&scene=4#wechat_redirect
+Python爬虫入门：Beautiful Soup的用法(2)
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206914953&idx=1&sn=48719ad581f598257d6a072aaa8af596&scene=4#wechat_redirect
+Python爬虫入门：Beautiful Soup的用法(1)
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206951819&idx=1&sn=758455c07f19c1df9dbe0b3864d90a73&scene=4#wechat_redirect
+Python爬虫实战（1）：爬取糗事百科段子
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=206984415&idx=1&sn=87bce220b0bf5775f344ec7e7e04c080&scene=4#wechat_redirect
+Python爬虫实战(2):爬取百度贴吧帖子
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207034959&idx=1&sn=b14ece80d8fa5497cbe34d158ad563fa&scene=4#wechat_redirect
+Python爬虫实战(3)：计算大学本学期绩点
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207080374&idx=1&sn=91f4f42580b4fe4e0ef6092cbefb3c3e&scene=4#wechat_redirect
+Python爬虫实战(4)：抓取淘宝MM照片
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207116385&idx=2&sn=09a285775413c188328a652739c6687a&scene=4#wechat_redirect
+Python爬虫实战(5)：模拟登录淘宝并获取所有订单(2)
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207116385&idx=1&sn=341e1d5c511bd3e79f2e1c4bc2712c0d&scene=4#wechat_redirect
+Python爬虫实战(5)：模拟登录淘宝并获取所有订单(1)
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207234614&idx=1&sn=aa2a601d3e3aba274cb7bd24d558d46f&scene=4#wechat_redirect
+初学者必知的Python中优雅的用法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207276185&idx=1&sn=220823f1f13c1b919602f07cebbab1eb&scene=4#wechat_redirect
+需求驱动学习之Python（如何编写Python脚本替换文件中的多行字符？）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207312182&idx=1&sn=067fa1a45f149f3bebea7dbb8dc357d7&scene=4#wechat_redirect
+使用Python开发chrome插件
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207397419&idx=1&sn=1629f9a29fde851d0287d135c22b6221&scene=4#wechat_redirect
+Flask、Django、Pyramid三个框架的对比
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207438711&idx=2&sn=79e15dcb2df612b8acf03fe790abfaf5&scene=4#wechat_redirect
+无需操作系统直接运行 Python 代码
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207483634&idx=2&sn=417d65da9269472b55f27f2d49a9ef22&scene=4#wechat_redirect
+Python算法：基础知识
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207525475&idx=2&sn=5cebed4211d79730203958b9947b171b&scene=4#wechat_redirect
+Python算法：推导、递归和规约
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207561540&idx=2&sn=51148c0234157d945f1b456c2fea0753&scene=4#wechat_redirect
+Python模块学习 —- datetime
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207561540&idx=1&sn=5a205d2b9e4a619c83dafe3ae00e5539&scene=4#wechat_redirect
+MicroPython：针对微控制器的Python
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207596629&idx=1&sn=1174360bcdee9d9d56fdeae40beb8da8&scene=4#wechat_redirect
+Python算法：遍历
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207636050&idx=2&sn=5459f9a10016e4fd8602759f3f31e2f2&scene=4#wechat_redirect
+在Python 3中实现类型检查器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207677126&idx=1&sn=d3307f28382d1fa8cfd14c93051a2d38&scene=4#wechat_redirect
+Python算法：分治法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207723145&idx=2&sn=20b4ed30343b65665621430ba24153c2&scene=4#wechat_redirect
+Python模块学习： zlib 数据压缩
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207846406&idx=1&sn=b53e1a38b2e6d6f615cb15001cb586af&scene=4#wechat_redirect
+Python文件关闭机制详解
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207883284&idx=1&sn=f83e6aa3487434c6c4aefb6a9626d58c&scene=4#wechat_redirect
+Python算法：贪心策略
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=207920243&idx=1&sn=a861a2bb278f497847d66ec989a935dc&scene=4#wechat_redirect
+Python算法：动态规划
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208005792&idx=2&sn=b87f95a8f6ee1f9516aa58d4abb8b97e&scene=4#wechat_redirect
+Python模块学习: hashlib   hash加密字符串
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208045857&idx=1&sn=2ec28611137f6e374dbc66aa0bc6fc07&scene=4#wechat_redirect
+一起写一个 Web 服务器（1）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208161242&idx=1&sn=a29e6bfd9ecf5a72c8b8288d3b34fe8d&scene=4#wechat_redirect
+一起写一个 Web 服务器（二）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208205105&idx=1&sn=b9b95f7dc3ee81c92c66fc05c2d3a57f&scene=4#wechat_redirect
+潜在的 Python 陷阱
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208244123&idx=1&sn=ad74d0c11d035abe5fd3613a3efc8ff9&scene=4#wechat_redirect
+构建健壮 Python 包的 5 个简单规则
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208284200&idx=2&sn=79a178cf812b42f656c664121436b440&scene=4#wechat_redirect
+Python模块学习：logging 日志记录
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208284200&idx=1&sn=318efcd047e409927d228ad6cfc92e35&scene=4#wechat_redirect
+Google 镜像站搜集
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208328748&idx=2&sn=f6fad27f52bde8f0df065f80e51f327d&scene=4#wechat_redirect
+Python模块学习：struct 数据格式转换
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208328748&idx=1&sn=3ed022fae22044b16e26efb5503ca271&scene=4#wechat_redirect
+悲剧，白板编程没写出反转二叉树，Homebrew 作者被谷歌拒掉了
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208328748&idx=2&sn=f6fad27f52bde8f0df065f80e51f327d&scene=4#wechat_redirect
+Python模块学习：struct 数据格式转换
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208372148&idx=1&sn=82781bec61fb5be61bee6ac86856caef&scene=4#wechat_redirect
+谷歌程序员谈白板编程
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208412350&idx=1&sn=f71cf671bfb23c3ecd915cc602df43fd&scene=4#wechat_redirect
+如何在Python中使用static、class、abstract方法（权威指南）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208455944&idx=1&sn=a97e725958943f2199a5735ce8a0f2c3&scene=4#wechat_redirect
+Python模块学习： thread 多线程处理
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208498615&idx=2&sn=ddc9a6862364e993b50b6c0e067dfd1f&scene=4#wechat_redirect
+Python模块学习: threading 多线程控制和处理
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208542539&idx=1&sn=e1c8e320c046c6ca8d2ed67b1bed8e19&scene=4#wechat_redirect
+用 Python 和 OpenCV 检测和跟踪运动对象
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208580405&idx=1&sn=86c9f7c6206eb907226250281f471de8&scene=4#wechat_redirect
+Python模块学习 ：subprocess 创建子进程
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208665569&idx=2&sn=a19397b7448c2b0ede1a9d3ccf59fbbd&scene=4#wechat_redirect
+Python模块学习：zipfile zip文件操作
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208769805&idx=1&sn=5f875380f3f166ccdefc2c279c5a0dc3&scene=4#wechat_redirect
+机器学习实战ByMatlab（1）：KNN算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208843797&idx=2&sn=cfff9c5b0d18394cfe46365ac7d6d199&scene=4#wechat_redirect
+机器学习实战ByMatlab（2）：PCA算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208932355&idx=1&sn=53ca411b7f08041dfacb811325845875&scene=4#wechat_redirect
+与 Python 无缝集成：基本特殊方法 1
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=208969554&idx=1&sn=24cafd560f536f5c635b7d132c80c1d8&scene=4#wechat_redirect
+Python中的函数详解
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209004909&idx=1&sn=d8be5c2f5ff0975dc3b4d3a67ff63f05&scene=4#wechat_redirect
+技术主管的瑞士军刀
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209112663&idx=1&sn=ce36a1f9ab41945cdc630fde4a31c78f&scene=4#wechat_redirect
+用 Python 的 Socket 模块构建一个 UDP 扫描工具
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209377862&idx=1&sn=05423f5f454d9f8421b6a4fdf1958ab2&scene=4#wechat_redirect
+有哪些实用的 IT 技能，可以在一天内学会？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209421726&idx=1&sn=d2814f39137b507c96d6f82236a8dea4&scene=4#wechat_redirect
+如何用python写一个拼写检查器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209463124&idx=1&sn=7279c95b139d7076ea67efb6b76d5109&scene=4#wechat_redirect
+通过 pymongo 测试 MongoDB 的高可用性
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209497176&idx=1&sn=9341b2a22d88c8c7b68481a6c15cc9d9&scene=4#wechat_redirect
+Python中使用内层函数的好处
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209540854&idx=1&sn=0b7a85228126842a493adb1ff44c57bb&scene=4#wechat_redirect
+12步轻松搞定python装饰器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209586365&idx=2&sn=388ae46fcd438add11ccbf9075cce682&scene=4#wechat_redirect
+Python解释器简介（1）：函数对象
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209631877&idx=1&sn=882865b49d4d1a2bdc7d03a87a9599f8&scene=4#wechat_redirect
+Python并行任务技巧
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209651348&idx=1&sn=8b4cb4fcb7babd265a0ccbf20bfe3502&scene=4#wechat_redirect
+Python 中的进程、线程、协程、同步、异步、回调
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209674112&idx=2&sn=15729ffac7907838003c5ffd8a1b1812&scene=4#wechat_redirect
+Python解释器简介(3)：理解字节码
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209696436&idx=2&sn=bc3afc56c469d0d881303cc6e6d12bcd&scene=4#wechat_redirect
+Python解释器简介（4）：动态语言
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209781434&idx=1&sn=112e179b5ccd2f3325c274764f2bb82f&scene=4#wechat_redirect
+Python解释器简介（5）：深入主循环
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209781434&idx=1&sn=112e179b5ccd2f3325c274764f2bb82f&scene=4#wechat_redirect
+Python解释器简介（5）：深入主循环
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209797651&idx=1&sn=15073e27080e6b637c8d24b6bb815417&scene=4#wechat_redirect
+一起来写个简单的解释器（1）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209820653&idx=2&sn=23712b78d82fb412e960c6aa1e361dd3&scene=4#wechat_redirect
+如何用 Spark 快速开发应用？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209858860&idx=1&sn=c8975336b52ba9ad6cd7430555cb700d&scene=4#wechat_redirect
+YouTube上最火的十个大数据视频
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209875651&idx=1&sn=6407f946bd32f971c53598f6a4b607e0&scene=4#wechat_redirect
+机器学习常见算法分类汇总
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209903555&idx=1&sn=14a9b49fd3ebb0ea78a01ca2a513248b&scene=4#wechat_redirect
+基于 Python 和 Scikit-Learn 的机器学习介绍
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209921111&idx=1&sn=907d24f18d6e2497ce7ca47201711e89&scene=4#wechat_redirect
+数据专家必知必会的 7 款 Python 工具
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209939907&idx=1&sn=d41f04ca38a835a6a9b2e9d6df044e3f&scene=4#wechat_redirect
+如何摧毁程序员的效率？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209962466&idx=1&sn=ca6471156490c76d74e79abb5d0ad273&scene=4#wechat_redirect
+值得关注的 10 个 Python 英文博客
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209980651&idx=1&sn=11fd40a2dee5132b0de8d4c79a97dac2&scene=4#wechat_redirect
+我从腾讯那“偷了”3000万QQ用户数据，出了份很有趣的独家报告！
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=209998175&idx=2&sn=2f3dee873d7350dfe9546ab4a9323c05&scene=4#wechat_redirect
+以 Python 为实例，介绍贝叶斯理论
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210013947&idx=1&sn=1f36ba5794e22d0fb94a9900230e74ca&scene=4#wechat_redirect
+自己动手写贝叶斯分类器给图书分类
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210032701&idx=1&sn=6b1fc2bc5d4eb0f87513751e4ccf610c&scene=4#wechat_redirect
+互联网协议入门
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210054548&idx=1&sn=a25b85daea00db7ed0064ec79a39c310&scene=4#wechat_redirect
+Python的GIL是什么鬼，多线程性能究竟如何
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210102428&idx=1&sn=87d3e45ea260dfbdb95c996086ef5d27&scene=4#wechat_redirect
+一起写一个 Web 服务器（3）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210102428&idx=2&sn=d330bbc4e4969540c4c8d5d2c47e5bbc&scene=4#wechat_redirect
+一起写一个 Web 服务器（3）续
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210120060&idx=1&sn=f8967a010c9879aabc6c08d74d0913a3&scene=4#wechat_redirect
+Python 自然语言处理（NLP）工具库汇总
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210157882&idx=1&sn=7c38e4cc6aeb4396df2f9079c5ca8b7c&scene=4#wechat_redirect
+Nginx 是如何为性能和规模做设计的？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210173767&idx=1&sn=05e3bdabe65559250a5b77484dcd7f5a&scene=4#wechat_redirect
+大数据全栈式开发语言 – Python
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210187847&idx=2&sn=f9056182477e36fc49b168014ad0d207&scene=4#wechat_redirect
+Python迭代器和生成器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210232574&idx=2&sn=0bec17b1a7a7200e5a8faaa38973a39c&scene=4#wechat_redirect
+从Theano到Lasagne：基于Python的深度学习的框架和库
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210301047&idx=1&sn=d389b143f5265f7fbcaddfa1c66e6a17&scene=4#wechat_redirect
+Python HOWTOs 官方文档：Socket 编程
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210355673&idx=2&sn=f083ccd70174292f509ac932e49b5817&scene=4#wechat_redirect
+机器学习实战ByMatlab（3）：K-means算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210369799&idx=2&sn=1700661a820f3d4826d7dafa4cc11f35&scene=4#wechat_redirect
+机器学习实战ByMatlab（4）：二分K-means算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210382723&idx=2&sn=13cd392a63ba51bc8c2dcf1b4bb9c5b7&scene=4#wechat_redirect
+2015-08-15 机器学习实战ByMatlab（5）：
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210400256&idx=1&sn=aa84905af68965adda9f12ed4008c430&scene=4#wechat_redirect
+说说Python中的几个内建函数和表推导
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210414482&idx=2&sn=a7a398b72e6081e0a6091e57b2d115f3&scene=4#wechat_redirect
+一套关于Django的笔试题
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210481906&idx=1&sn=8e365390826e27e64566a44a5dc7d415&scene=4#wechat_redirect
+Quora 是如何使用机器学习的？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210481906&idx=2&sn=a2a3920f6bc9e87007672e9b0a5d69da&scene=4#wechat_redirect
+Python Guide 系列 2.1：结构化你的项目
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210496606&idx=1&sn=5b0caa03fd7223c88ad8afbe0a2f2389&scene=4#wechat_redirect
+使用Vagrant搭建跨平台的Python开发环境
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210531581&idx=2&sn=69c599e2e2a8264203220e15e7fc8582&scene=4#wechat_redirect
+【大型网站技术实践】初级篇：借助 LVS + Keepalived 实现负载均衡
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210531581&idx=1&sn=27ab088fc8102da414e74d35a3ec4370&scene=4#wechat_redirect
+让 Python 更快地进行验证
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210551117&idx=1&sn=e83b961439af29d7b80fff49ebd32dd2&scene=4#wechat_redirect
+Apache Spark 入门简介
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210561243&idx=1&sn=ad131beeef14368d02f679d9d347cc5f&scene=4#wechat_redirect
+一篇文章让你彻底搞清楚Python中self的含义
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210591046&idx=2&sn=a4bbec0c01ce6f1e94503f2897ff3716&scene=4#wechat_redirect
+Python 性能优化的 20 条建议
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210658316&idx=2&sn=6f2f64e18cc7882531e21d5fcf65588f&scene=4#wechat_redirect
+PageRank算法简介及MapReduce实现
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210669935&idx=2&sn=beb673be696b1b81a5ca6b2143112731&scene=4#wechat_redirect
+使用PYTHON将文本转为图片
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210683538&idx=2&sn=77b4be06699188da57dd103b4070033e&scene=4#wechat_redirect
+Python 性能快速优化
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210696423&idx=2&sn=6df6e982304fb45711db683fd9cb48d5&scene=4#wechat_redirect
+分析 Python 脚本
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210712935&idx=2&sn=55ce40f327ccd4cf29695baf32f88820&scene=4#wechat_redirect
+用 Python 爬虫抓站的一些技巧总结
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210712935&idx=1&sn=c933ff4f9047e7dc9d94632eb27fe802&scene=4#wechat_redirect
+21 张 GIF 动图让你了解各种数学概念
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210726402&idx=2&sn=a4be26e7c4a8608661c712b4a4422c67&scene=4#wechat_redirect
+用 Python 爬虫抓站的一些技巧总结：进阶篇
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210740361&idx=2&sn=724127b81c7db2bd18e2dfbe05c70a43&scene=4#wechat_redirect
+Python 中的 property 属性
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210755241&idx=2&sn=946d90e6ae5e8ae2026f5f1cffdf6de9&scene=4#wechat_redirect
+为什么Python中没有Switch/Case语句?
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210801264&idx=2&sn=e929e3851b1c2e06a9cbb94f18a38403&scene=4#wechat_redirect
+数据挖掘（1）：关联规则挖掘基本概念与Aprior算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210822365&idx=2&sn=f7bf4fa0bdd877d6f7913a3567904aab&scene=4#wechat_redirect
+深入分析 Python 的垃圾回收机制
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210845119&idx=2&sn=8a00da9ead0a2dc4d3d35b97ffc91880&scene=4#wechat_redirect
+数据挖掘（2）：关联规则FpGrowth算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210866732&idx=2&sn=9e69e71700a9a4d7301782a60275b644&scene=4#wechat_redirect
+数据挖掘（3）：关联规则评价
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210890016&idx=2&sn=04bf76a05064045b45e680a4a5462788&scene=4#wechat_redirect
+数据挖掘（4）：使用weka做关联规则挖掘
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=210907061&idx=2&sn=8f7a85dac4fc7314d8e541a635088650&scene=4#wechat_redirect
+数据挖掘（5）：使用mahout做海量数据关联规则挖掘
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211035450&idx=2&sn=6c84bb9c4734412a851bd451497cd3af&scene=4#wechat_redirect
+数据挖掘（10）：卷积神经网络算法的一个实现
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211035450&idx=1&sn=8b55b1bdda7bd987a3fc4f232f5e4fa7&scene=4#wechat_redirect
+前方高能！如何保障Python应用的高性能
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211060883&idx=2&sn=b2fcce9f37b9cb073eef9d6b62a64f2a&scene=4#wechat_redirect
+Python字符编码详解
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211082304&idx=2&sn=69e8b79ab474818f563fe9cfa79b9147&scene=4#wechat_redirect
+Python自省（反射）指南
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211098334&idx=2&sn=d3d036d467fe3234b9b69a838b1e138d&scene=4#wechat_redirect
+Python装饰器与面向切面编程
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211140694&idx=2&sn=c536ae68f4111fe14509b9a69f884160&scene=4#wechat_redirect
+Python装饰器实例：调用参数合法性验证
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211161860&idx=2&sn=498833eb69ce53029bc86b363cec8eed&scene=4#wechat_redirect
+Python Howto 之 logging 模块
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211182869&idx=2&sn=cfd37b216d9152f4ff44bfab484b58ee&scene=4#wechat_redirect
+Python函数式编程指南（1）：概述
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211198579&idx=2&sn=e79e82b8c5d66ad0af40008b5cae6911&scene=4#wechat_redirect
+Python函数式编程指南（2）：函数
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211212948&idx=2&sn=df5cefd452eb15815fc242e3665de170&scene=4#wechat_redirect
+Python函数式编程指南（3）：迭代器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211212948&idx=1&sn=34c5ab956e1e30f2911e13b1f72f3e14&scene=4#wechat_redirect
+详细解释数据挖掘中的 10 大算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211223206&idx=2&sn=b6403ad2fb5342e043377cf752d6b150&scene=4#wechat_redirect
+Python函数式编程指南（4）：生成器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211239668&idx=2&sn=28884ada469f850fe058d9799c700b45&scene=4#wechat_redirect
+想理解Python的列表解析吗？Think in Excel or SQL.
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211239668&idx=1&sn=438d00a1aa5a006d43bf1d3bac3a76fb&scene=4#wechat_redirect
+中文编码杂谈
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211284301&idx=2&sn=972f7390c7d1585c851d6fbf1ee5cf0b&scene=4#wechat_redirect
+用 Python 从零开始写一个简单的解释器(1)
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211336282&idx=2&sn=3f1a1c16562397d88680535e985b2452&scene=4#wechat_redirect
+从头开始实现神经网络：入门
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211368009&idx=2&sn=b088eebd6e7757dd348f2afc5149b607&scene=4#wechat_redirect
+如何用 Python 追踪 NBA 球员的移动轨迹 (1)
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211390114&idx=2&sn=a5744839ac673ba4e37291035f365f99&scene=4#wechat_redirect
+如何用 Python 追踪 NBA 球员的移动轨迹 (2)
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211422110&idx=1&sn=ae7b968094af2bc6a2aa272e0335d4de&scene=4#wechat_redirect
+10 种机器学习算法的要点
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211439958&idx=1&sn=8dc13d965d629b58e435ab655db73926&scene=4#wechat_redirect
+教程：用 RAKE 和 Maui 做 NLP 关键词提取
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211465409&idx=2&sn=07db19a6b53ad8a20e113accb53cdcf8&scene=4#wechat_redirect
+由用户输入系列对称的点的解决方案
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211465409&idx=1&sn=c7f650606e37c80df2a213d2915058ca&scene=4#wechat_redirect
+八大排序算法的 Python 实现
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211499650&idx=2&sn=306252c792b08b011885175b8d46c607&scene=4#wechat_redirect
+定位Python built-in函数的源码实现
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211589123&idx=2&sn=a86799a6627256b877c92e9cd6b524ae&scene=4#wechat_redirect
+Python 对象（上）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211727071&idx=2&sn=78a00c6e935af562e2d3d41c6e99f6f6&scene=4#wechat_redirect
+Python 对象（下）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211821897&idx=2&sn=a2de8834418ba41e976995ac30693c25&scene=4#wechat_redirect
+Python 格式化字符串
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=211916498&idx=2&sn=675ee7986ee838029bc031f48a327b95&scene=4#wechat_redirect
+图解 Python 深拷贝和浅拷贝
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=212023128&idx=2&sn=51024e53f6ad42d09ada09d919aa9231&scene=4#wechat_redirect
+Python 中的闭包
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=212171891&idx=2&sn=b02f38dcbee7eec6fa3afb49abbd043f&scene=4#wechat_redirect
+Python 函数相关
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=212236724&idx=2&sn=71a357e4a64d6b739cc2e7c48d82855c&scene=4#wechat_redirect
+Python 迭代器和生成器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400025718&idx=1&sn=678347188f387104d76bb961c01cb409&scene=4#wechat_redirect
+进程与线程的一个简单解释
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400050457&idx=2&sn=45d1e8eb5476918c1255c9b8cbb3fad2&scene=4#wechat_redirect
+Python 中的类（上）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400177225&idx=2&sn=f23b3f119653d63d82cd7f11caeaadaf&scene=4#wechat_redirect
+Python 中的类（中）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400280801&idx=2&sn=374bbff7585141d5505618b269bb7d06&scene=4#wechat_redirect
+Python 中的类（下）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400416137&idx=2&sn=6476dfa69b1e92f2dfe42d20e37e9b74&scene=4#wechat_redirect
+Python 装饰器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400515585&idx=2&sn=86c7ab2554e8e3ad3118dd7a5a9d0b41&scene=4#wechat_redirect
+Python运行时的方法补丁技术
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400547154&idx=2&sn=9f45a23292331bdf4126048203c84c2b&scene=4#wechat_redirect
+用 Python 做了一个豆瓣用户读书短评下载工具
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400566180&idx=2&sn=f5b5a158deb7c620c1070a1d5102a00f&scene=4#wechat_redirect
+从豆瓣电影批量获取看过这部电影的用户列表
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400636467&idx=2&sn=06399c76f6a853603f3ac92cfa977453&scene=4#wechat_redirect
+用 kNN 算法预测豆瓣电影用户的性别
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400636467&idx=2&sn=06399c76f6a853603f3ac92cfa977453&scene=4#wechat_redirect
+用 kNN 算法预测豆瓣电影用户的性别
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400759235&idx=2&sn=782c1eb6dc004518cbc5c4b92699cdc0&scene=4#wechat_redirect
+复杂度为 O(1) 的「最不常用」缓存算法的 Python 实现
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400820191&idx=2&sn=58993789c1d2576d5fa1d8eb1c0dfc4e&scene=4#wechat_redirect
+用 Python 制作 Powerpoint 演示文稿
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400885327&idx=2&sn=cf2a7f5f4d92f4167b2971df77a8f816&scene=4#wechat_redirect
+用 Python 从零开始写一个简单的解释器（2）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400909138&idx=2&sn=5277baacccabe4582a5e6a099e7e1731&scene=4#wechat_redirect
+Python 内存管理方式和垃圾回收算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=400928486&idx=2&sn=2db7f9e298b69765fdd081666e520058&scene=4#wechat_redirect
+用 Python 从零开始写一个简单的解释器（3）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401008557&idx=2&sn=d89940f138a2816791a8fc7c0628d8e8&scene=4#wechat_redirect
+用 Python 从零开始写一个简单的解释器（4）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401056320&idx=2&sn=be0c2700de3362b4a5c643e8472a356d&scene=4#wechat_redirect
+浅谈 Python 的 with 语句
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401116765&idx=2&sn=c4203a46cfb5c336e7454ed98b9e8b5a&scene=4#wechat_redirect
+探索 Python（1）: Python 的内置数值类型
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401167039&idx=2&sn=a6d8c218fef1312aec0c08358f0da712&scene=4#wechat_redirect
+探索 Python（2）: 探索 Python 类型的层次结构 —— 了解对象和容器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401198565&idx=2&sn=7443f01f9cffc38f5bb436e784da4d20&scene=4#wechat_redirect
+探索 Python（3）: 探索 Python 类型的层次结构 —— 使用字符串
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401222649&idx=2&sn=e0a2cd72953d582cfbd9e2e9066ef658&scene=4#wechat_redirect
+探索 Python（4）: 探索 Python 类型的层次结构 —— 使用列表
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401239512&idx=2&sn=8c8f597f09327fd49e258301d4267ad3&scene=4#wechat_redirect
+探索 Python（5）: 用 Python 编程 —— 控制流
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401269391&idx=2&sn=cbf8c82f25baba2e5043e4216a6dfbe3&scene=4#wechat_redirect
+Python 调试工具 pudb 的使用指南
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401334136&idx=2&sn=1a7a8e43bf54ef8e66dfbe4f1fb2d795&scene=4#wechat_redirect
+探索 Python（5）: 用 Python 编程，控制流
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401460217&idx=2&sn=65fe4a302d320736b61d84d158811023&scene=4#wechat_redirect
+深入 Python 列表的内部实现
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401498292&idx=2&sn=168da9f08580f87992d4e173fc9905a3&scene=4#wechat_redirect
+小 200 行 Python 代码做了一个换脸程序
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401552346&idx=2&sn=7d93936338849ca1903c09e5d0ff9d71&scene=4#wechat_redirect
+一起来写个简单的解释器（2）：两个整数相加或相减
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401574576&idx=2&sn=69e949a266f6486a2caced55b8d61357&scene=4#wechat_redirect
+一起来写个简单的解释器（3）：任意数量的加法和减法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401607859&idx=2&sn=a2dd2161a8c41cc2ac89f7a22c6af876&scene=4#wechat_redirect
+一起来写个简单的解释器（4）：任意数量的乘法和除法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401626198&idx=2&sn=79c0e2ca17e9a3e68a38b5ce38cd073f&scene=4#wechat_redirect
+一起来写个简单的解释器（5）：加减乘除表达式
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401643154&idx=2&sn=4f834c188b5993750def52294ba8d1e3&scene=4#wechat_redirect
+Google翻译是如何把深度学习“塞进”手机的？
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401662208&idx=2&sn=5fa4630d8600b7613c80e70dd722cd12&scene=4#wechat_redirect
+各种 Python 实现的简单介绍与比较
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401682561&idx=2&sn=64e16f8eec75462e51120b5a8f6ae78f&scene=4#wechat_redirect
+如何用Python开发一个简单的Webkit浏览器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401697915&idx=2&sn=c1b648523ad2d0545a9aef3378e1b6bb&scene=4#wechat_redirect
+举例讲解 Python 中的死锁、可重入锁和互斥锁
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401714969&idx=2&sn=6c2d05c6090b9bcdc3cf54259d671e85&scene=4#wechat_redirect
+Flask 框架中 SQLAlchemy 使用时的乱码问题
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401738642&idx=2&sn=8a95c1cdc92f9bfb4c45b080b841c14f&scene=4#wechat_redirect
+python 线程之 Condition
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401756361&idx=2&sn=fbf7efb6eb094baae2cee2f55efb6203&scene=4#wechat_redirect
+一起来写个简单的解释器（6）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401773693&idx=2&sn=3bd10c130045274924cf81b7efedde19&scene=4#wechat_redirect
+Python 奇技淫巧
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401841688&idx=2&sn=d2e360c227bdfaaca0a2ae15aaf185d7&scene=4#wechat_redirect
+Python 中 eval 带来的潜在风险
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401865629&idx=2&sn=5329e22798a20b4119ac0ca6ddfec60f&scene=4#wechat_redirect
+详解在 Python 中解析并修改XML内容的方法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401895107&idx=2&sn=ef8e506ed5536c7fa3e4b160fca6072a&scene=4#wechat_redirect
+我理解的 Python 最佳实践
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401923016&idx=2&sn=702e4c8e13d616d51fcb31fb282b45eb&scene=4#wechat_redirect
+Python实现ftp常用操作[ftplib]
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401923016&idx=1&sn=8ad78972f249db9c4f189779c0054a97&scene=4#wechat_redirect
+别说没提醒，大多开源项目是这样维护的
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401942379&idx=2&sn=71937d00cadcb2014219c6378af7cc95&scene=4#wechat_redirect
+Python通用数据格式转换工具
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401959445&idx=2&sn=78fa59fb1bf8f00cb5e00e77f3f65046&scene=4#wechat_redirect
+Python读取修改ini配置文件[ConfigParser]
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401980430&idx=2&sn=69da380c1d8fe9c7e9b462ea2f758ea8&scene=4#wechat_redirect
+Python 解析 xml[xml.dom]
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402000436&idx=2&sn=3b52c49648c2b322848aee9b439c4a14&scene=4#wechat_redirect
+Python中如何使用*args和**kwargs
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402023555&idx=2&sn=a3418f35a47c7a7ae406801ba763734f&scene=4#wechat_redirect
+人肉工程在机器学习实践中的作用
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402047084&idx=2&sn=68cc184e97a691777ea169ef400bb9f4&scene=4#wechat_redirect
+一个 11 行 Python 代码实现的神经网络
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402065403&idx=2&sn=c54ddf1d322535e1a02a6c7c1c3aa6c7&scene=4#wechat_redirect
+用K-均值聚类来探索顾客细分
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402089084&idx=2&sn=6ab4ce6edde0c81b86879f12cce2ae0d&scene=4#wechat_redirect
+Python 模板：Jinja2
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402132861&idx=2&sn=e963dd0cadf0fd3822b9fa3f289af427&scene=4#wechat_redirect
+Python 中 staticmethod 和 classmethod 的差异
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402161052&idx=2&sn=44ac439d6f76cd075fc8854a43807379&scene=4#wechat_redirect
+利用 Python 练习数据挖掘
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402161052&idx=1&sn=d771bdc9e4bc057f8d2e164edb79b83b&scene=4#wechat_redirect
+最全的常用正则表达式大全
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402188182&idx=2&sn=c9546fee8aeac9f1082f4c9780974507&scene=4#wechat_redirect
+Python 中 yield 的解释
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402188182&idx=1&sn=677eb8c01fd1258005742f1321acd7e4&scene=4#wechat_redirect
+机器学习算法之旅
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402209933&idx=2&sn=a41d78832e4deb7fe7b694e6e6dc2891&scene=4#wechat_redirect
+快速Python性能优化要点
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402234613&idx=2&sn=5bb213486d8c794558967c1632defc20&scene=4#wechat_redirect
+用 python 扫描本地音乐并下载歌词
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402275094&idx=2&sn=35fcfea21c16ff646b4714ed9badd123&scene=4#wechat_redirect
+Python 编程中使用 Pillow 来处理图像的基础教程
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402301442&idx=2&sn=c4b3888f9651cbf79c9a0a9f4b20d11e&scene=4#wechat_redirect
+一些简单的Python测试题
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402334431&idx=2&sn=d61d367aceb18e5590bcb52426736e2e&scene=4#wechat_redirect
+Python 实现控制台中的进度条
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402369096&idx=2&sn=50fab32d2fbc2788fea38484e39caa21&scene=4#wechat_redirect
+Python 标准库 urllib2 的使用细节
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402416981&idx=2&sn=c011921b44d4fba5e864c41eb597fb15&scene=4#wechat_redirect
+用 Opencv 和 Python 对汪星人做模糊检测
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402454450&idx=2&sn=2f20a3df2a031beb689fe330b227935c&scene=4#wechat_redirect
+Python 文件管理
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402474736&idx=2&sn=5e7a5dea2a84ac2d08db2b85803f9e37&scene=4#wechat_redirect
+深入了解 Python 字符串对象的实现
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402497457&idx=2&sn=f513ac83ebfba796ff4b21d0cf796004&scene=4#wechat_redirect
+fabric 实现远程操作和部署
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402551070&idx=2&sn=26db354c12fa17156509b7adb393decb&scene=4#wechat_redirect
+Python 通用邮件发送(smtplib)
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402551070&idx=1&sn=58a7004eeaf327660a1099ff40da149d&scene=4#wechat_redirect
+高级正则表达式技术（Python版）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402568127&idx=2&sn=4d65eef28cd7880bd424514358ec3851&scene=4#wechat_redirect
+如何创建和使用Python CGI脚本
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402583139&idx=2&sn=a513b9e3a22cfcf6d32bc6b293930036&scene=4#wechat_redirect
+用 Python 实现 K-近邻算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402600814&idx=2&sn=a84d889ef35eed569ab98f6ba388a8be&scene=4#wechat_redirect
+使用 Python 的 Supervisor 来管理进程
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402662574&idx=2&sn=ac08371e4e52069c29930532a3a52496&scene=4#wechat_redirect
+用 Python 做单词拼写检查
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402724424&idx=2&sn=dc2cf743378917cbb2a859af95188e52&scene=4#wechat_redirect
+用 Python 写一个简单的 Web 框架
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402769176&idx=2&sn=f8a1438259dcdafef522a6257466ee8c&scene=4#wechat_redirect
+深入理解异步Web服务器 Tornado
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402782798&idx=2&sn=25318f765431dd979521efac1ee547b2&scene=4#wechat_redirect
+Python实践：提取文章摘要
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402795025&idx=2&sn=2ddb353c4a3b4dafaf0cd818ce6b6b2a&scene=4#wechat_redirect
+Python实践：模块自动重载
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402795025&idx=1&sn=af5e7bde314b815b805440aaeb265734&scene=4#wechat_redirect
+不知道被谁删了微信好友？用 Python 来帮忙呀！
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402917381&idx=2&sn=89901940839bf745853d1d234fcbf2dc&scene=4#wechat_redirect
+Hadoop中的Python框架的使用指南
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402974435&idx=2&sn=a1a699ce36959b5a3b89b91ebbc7c7c4&scene=4#wechat_redirect
+Python基础：元组小结
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402917381&idx=1&sn=a88b4c3f1dd0dd0155476c6ce7767f95&scene=4#wechat_redirect
+关于烂代码的那些事（上）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402974435&idx=1&sn=62f24d95ab547946b38a4e2f29ce270e&scene=4#wechat_redirect
+关于烂代码的那些事（中）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403016557&idx=2&sn=40f28f1f48ea2e557ea372af95cafa45&scene=4#wechat_redirect
+关于烂代码的那些事（下）
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403055784&idx=2&sn=b8d12876d743768c4c03462e8f22598d&scene=4#wechat_redirect
+如何使用 50 行 Python 代码制作一个计算器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403072143&idx=2&sn=2eb0873e962896b659d837e657d102ba&scene=4#wechat_redirect
+70 行 Python 代码编写一个递归下降解析器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403081073&idx=2&sn=ce0b723696dfdfec35da48a93c9dd953&scene=4#wechat_redirect
+使用 Python 生成基于马尔可夫链的伪随机文本
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403108848&idx=2&sn=929613ecfeffdf03a102ba078b469032&scene=4#wechat_redirect
+使用Python脚本在Linux下实现部分Bash Shell的教程
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403108848&idx=1&sn=a53364ed6e636080df5bbd25daf5b365&scene=4#wechat_redirect
+用 Python Pandas 处理亿级数据
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403135873&idx=2&sn=861f0e8f1ebae56305a5ee5d16fcd893&scene=4#wechat_redirect
+形象地解释 Python 中的列表解析
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403135873&idx=1&sn=96b7bd15a1d4f0701419726d2d8f5dd9&scene=4#wechat_redirect
+忘关烤箱有时挺危险，看我用 Python 和 OpenCV 来治它
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403177520&idx=2&sn=71319f57a19dd6f3b4ae3f681bc4b2b6&scene=4#wechat_redirect
+用Python中的mock库对Python代码进行模拟测试
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403226116&idx=2&sn=d8c5d2747a4d2123db6ac714f40be34b&scene=4#wechat_redirect
+Python 基于协同过滤的推荐
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403355603&idx=2&sn=39114290820a375ebf9c11077b505b0b&scene=4#wechat_redirect
+Python 验证码识别处理实例
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403370321&idx=2&sn=339724cca9b9b9fc7baffb9065aeb937&scene=4#wechat_redirect
+初步理解 Python 进程的信号通讯
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403430145&idx=2&sn=a4c39a7fbf4695c2669ccb77ae0fe154&scene=4#wechat_redirect
+Python 编写的最短路径算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403499152&idx=2&sn=836bf9da93fa20496cbd17f447f9152e&scene=4#wechat_redirect
+随机迷宫生成算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403499152&idx=1&sn=99f79d1233d98aa711b785ddc29d9922&scene=4#wechat_redirect
+6 个例子介绍「纳什均衡」
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403545705&idx=2&sn=ee92d58c5cd0868ddbe5d5bb46a764e2&scene=4#wechat_redirect
+Python实现同时兼容老版和新版Socket协议的一个简单WebSocket服务器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403569516&idx=2&sn=59eebba8cc2296ade731a7074d63ab66&scene=4#wechat_redirect
+用 Python 开发自动化测试脚本
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403602372&idx=2&sn=96f1a75d14ce51aa6f14d2bc00370992&scene=4#wechat_redirect
+用 Python 编写简单的 HTML5 语法解析器
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403695401&idx=2&sn=c5256874231f30b9ca3bac7cbbae7a08&scene=4#wechat_redirect
+Redis实现简单消息队列
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403716183&idx=2&sn=51cf4c83a0b654b804307b168722d1ab&scene=4#wechat_redirect
+聊聊 Python 的 mixin 模式
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403716183&idx=1&sn=b35080e522691f56d13c9b2686cb5261&scene=4#wechat_redirect
+数据挖掘 10 大经典算法
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403723638&idx=2&sn=92433118e0df3c2e76171d114f7a4c0f&scene=4#wechat_redirect
+用 Python 绘制音乐图谱
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403748693&idx=2&sn=c0d523e6f0354786790f4d417beea678&scene=4#wechat_redirect
+Select 模型简介
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403762514&idx=2&sn=977b875fcc341876b30a922872c1afa1&scene=4#wechat_redirect
+Python 并发模型
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403770008&idx=2&sn=59ce5d044ddac6ae7dad367f761adf65&scene=4#wechat_redirect
+Epoll 模型简介
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403772957&idx=2&sn=6e41cd6bb5a3357ffe9e1a5543e26f04&scene=4#wechat_redirect
+在 Pylons 中使用 MongoDB 的例子
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403772957&idx=1&sn=edaf984a5ab6cddb7dfeb9b1975d77a4&scene=4#wechat_redirect
+史上最大机器学习数据集，雅虎对外开放了
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403779868&idx=2&sn=5fb8ed074e7fcb11c442bb5603fc0703&scene=4#wechat_redirect
+Django权限机制的实现
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403779868&idx=2&sn=5fb8ed074e7fcb11c442bb5603fc0703&scene=4#wechat_redirect
+Django权限机制的实现
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403786378&idx=2&sn=9db1023c6de5a5ef358fdda93e5c5efc&scene=4#wechat_redirect
+Python __getattribute__ vs __getattr__ 浅谈
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403791877&idx=2&sn=4a432ce1e95dbea424bfc1525da45952&scene=4#wechat_redirect
+Pycrypto与RSA密码技术笔记
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403797468&idx=2&sn=0dea30fc4db48474906fc3aecdeea2da&scene=4#wechat_redirect
+简单扯扯PyCharm4.5中新加的Python Profiler功能
+
+http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=403797468&idx=1&sn=b9af1fc851fcc001cdfcdf183434d282&scene=4#wechat_redirect
+微信红包的算法实现探讨
+
